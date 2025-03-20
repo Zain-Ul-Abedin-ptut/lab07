@@ -6,5 +6,6 @@ List<string> householdItems = new List<string>();
         householdItems.Add("Chair");
         householdItems.Add("Sofa");
         householdItems.Add("Refrigerator");
-
+        // Adding a different household item
+        householdItems.Add("Microwave");
         
