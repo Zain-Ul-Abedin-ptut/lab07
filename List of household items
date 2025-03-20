@@ -6,6 +6,11 @@ List<string> householdItems = new List<string>();
         householdItems.Add("Chair");
         householdItems.Add("Sofa");
         householdItems.Add("Refrigerator");
+2nd_branch
+        // Adding a different household item
+        householdItems.Add("Microwave");
+
         // Adding another household item
         householdItems.Add("Clock");
+main
         
